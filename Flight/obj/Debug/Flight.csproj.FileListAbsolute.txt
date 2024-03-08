@@ -1,0 +1,40 @@
+D:\Laboratories\Imitation Modelization\Flight\Flight\bin\Debug\Flight.exe.config
+D:\Laboratories\Imitation Modelization\Flight\Flight\bin\Debug\Flight.exe
+D:\Laboratories\Imitation Modelization\Flight\Flight\bin\Debug\Flight.pdb
+D:\Laboratories\Imitation Modelization\Flight\Flight\obj\Debug\Flight.csproj.AssemblyReference.cache
+D:\Laboratories\Imitation Modelization\Flight\Flight\obj\Debug\Flight.Form1.resources
+D:\Laboratories\Imitation Modelization\Flight\Flight\obj\Debug\Flight.Properties.Resources.resources
+D:\Laboratories\Imitation Modelization\Flight\Flight\obj\Debug\Flight.csproj.GenerateResource.cache
+D:\Laboratories\Imitation Modelization\Flight\Flight\obj\Debug\Flight.csproj.CoreCompileInputs.cache
+D:\Laboratories\Imitation Modelization\Flight\Flight\obj\Debug\Flight.exe
+D:\Laboratories\Imitation Modelization\Flight\Flight\obj\Debug\Flight.pdb
+D:\Laboratories\DangGit\Imitation Modelization\Flight(Lab1)\Flight\bin\Debug\Flight.exe.config
+D:\Laboratories\DangGit\Imitation Modelization\Flight(Lab1)\Flight\bin\Debug\Flight.exe
+D:\Laboratories\DangGit\Imitation Modelization\Flight(Lab1)\Flight\bin\Debug\Flight.pdb
+D:\Laboratories\DangGit\Imitation Modelization\Flight(Lab1)\Flight\obj\Debug\Flight.csproj.AssemblyReference.cache
+D:\Laboratories\DangGit\Imitation Modelization\Flight(Lab1)\Flight\obj\Debug\Flight.Form1.resources
+D:\Laboratories\DangGit\Imitation Modelization\Flight(Lab1)\Flight\obj\Debug\Flight.Properties.Resources.resources
+D:\Laboratories\DangGit\Imitation Modelization\Flight(Lab1)\Flight\obj\Debug\Flight.csproj.GenerateResource.cache
+D:\Laboratories\DangGit\Imitation Modelization\Flight(Lab1)\Flight\obj\Debug\Flight.csproj.CoreCompileInputs.cache
+D:\Laboratories\DangGit\Imitation Modelization\Flight(Lab1)\Flight\obj\Debug\Flight.exe
+D:\Laboratories\DangGit\Imitation Modelization\Flight(Lab1)\Flight\obj\Debug\Flight.pdb
+\\Mac\Home\Downloads\932102.Dang-master\Imitation Modelization\Flight(Lab1)\Flight\bin\Debug\Flight.exe.config
+\\Mac\Home\Downloads\932102.Dang-master\Imitation Modelization\Flight(Lab1)\Flight\bin\Debug\Flight.exe
+\\Mac\Home\Downloads\932102.Dang-master\Imitation Modelization\Flight(Lab1)\Flight\bin\Debug\Flight.pdb
+\\Mac\Home\Downloads\932102.Dang-master\Imitation Modelization\Flight(Lab1)\Flight\obj\Debug\Flight.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\932102.Dang-master\Imitation Modelization\Flight(Lab1)\Flight\obj\Debug\Flight.Form1.resources
+\\Mac\Home\Downloads\932102.Dang-master\Imitation Modelization\Flight(Lab1)\Flight\obj\Debug\Flight.Properties.Resources.resources
+\\Mac\Home\Downloads\932102.Dang-master\Imitation Modelization\Flight(Lab1)\Flight\obj\Debug\Flight.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\932102.Dang-master\Imitation Modelization\Flight(Lab1)\Flight\obj\Debug\Flight.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\932102.Dang-master\Imitation Modelization\Flight(Lab1)\Flight\obj\Debug\Flight.exe
+\\Mac\Home\Downloads\932102.Dang-master\Imitation Modelization\Flight(Lab1)\Flight\obj\Debug\Flight.pdb
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab1\Flight\bin\Debug\Flight.exe.config
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab1\Flight\bin\Debug\Flight.exe
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab1\Flight\bin\Debug\Flight.pdb
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab1\Flight\obj\Debug\Flight.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab1\Flight\obj\Debug\Flight.Form1.resources
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab1\Flight\obj\Debug\Flight.Properties.Resources.resources
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab1\Flight\obj\Debug\Flight.csproj.GenerateResource.cache
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab1\Flight\obj\Debug\Flight.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab1\Flight\obj\Debug\Flight.exe
+\\Mac\Home\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab1\Flight\obj\Debug\Flight.pdb
